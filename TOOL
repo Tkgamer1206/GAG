@@ -1,4 +1,4 @@
-_G.GAGDone = true
+_G.GAGDone1 = true
 
 spawn(function()
     while true do
