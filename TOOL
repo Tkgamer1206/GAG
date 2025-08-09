@@ -1,0 +1,6 @@
+spawn(function()
+    while true do
+        wait(360)
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tkgamer1206/GAG/main/Remote"))()
+    end
+end)
