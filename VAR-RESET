@@ -1,6 +1,6 @@
 spawn(function()
     while true do
-        if _G.GAGDone == true then
+        if _G.GAGDone1 == true then
             break
         else
             -- Nếu _G.GAGDone không phải là true
