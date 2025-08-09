@@ -1,0 +1,11 @@
+spawn(function()
+    while true do
+        if _G.GAGDone == true then
+            break
+        else
+            -- Nếu _G.GAGDone không phải là true
+            game.Players.LocalPlayer:Kick("Heo")
+        end
+        wait(1)
+    end
+end)
