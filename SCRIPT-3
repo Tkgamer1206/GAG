@@ -1,0 +1,6 @@
+if _G.SCR3 then
+    return
+end
+_G.SCR3 = true
+
+--SCRIPT CỦA BẠN
