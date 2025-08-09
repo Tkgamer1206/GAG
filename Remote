@@ -4,7 +4,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Tkgamer1206/GAG/main/
 end)
 
 spawn(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tkgamer1206/GAG/main/SCRIPT-1"))()
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/Tkgamer1206/GAG/main/SCRIPT-1"))()
 end)
 
 spawn(function()
